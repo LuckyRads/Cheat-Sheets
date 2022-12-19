@@ -111,6 +111,7 @@
 - Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Enable all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>E</kbd>
 - Disable all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>D</kbd> 
+- Remove all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>R</kbd> 
 - Focus call stack <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>C</kbd>
 - Focus variables <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>V</kbd>
 - Focus breakpoints <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>B</kbd>
