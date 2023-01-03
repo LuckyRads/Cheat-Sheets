@@ -108,6 +108,7 @@
 - Step over <kbd>F10</kbd>
 - Step out <kbd>Shift</kbd> + <kbd>F11</kbd>
 - Toggle breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
+- Toggle inline breakpoint <kbd>Shift</kbd> + <kbd>F9</kbd>
 - Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Enable all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>E</kbd>
 - Disable all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>D</kbd> 
