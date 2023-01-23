@@ -56,6 +56,7 @@
 - Focus notification toast <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>T</kbd>
 - Show notifications <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>M</kbd>, <kbd>M</kbd>
 - Customize layout <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>L</kbd>
+- Zen mode <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Z</kbd>
 - Error lens toggle <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>, <kbd>T</kbd>
 - Error lens toggle warning <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>, <kbd>W</kbd>
 - Error lens toggle error <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>, <kbd>E</kbd>
