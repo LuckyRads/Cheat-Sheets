@@ -29,6 +29,7 @@
 - Focus branches <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>B</kbd>
 - Focus commits <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>C</kbd>
 - Focus timeline <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>T</kbd>
+- Focus open editors <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>E</kbd>
 - Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
