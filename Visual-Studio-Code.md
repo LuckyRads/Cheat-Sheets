@@ -79,6 +79,7 @@
 - Go to type definition <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>
 - Search file <kbd>Ctrl</kbd> + <kbd>F</kbd>
 - Search project <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F</kbd>
+- Fuzzy find in file <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>F</kbd>
 - Navigate backward <kbd>Alt</kbd> + <kbd>Left</kbd>
 - Navigate forward <kbd>Alt</kbd> + <kbd>Right</kbd>
 - New item <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>N</kbd>
