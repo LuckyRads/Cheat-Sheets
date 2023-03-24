@@ -110,7 +110,8 @@
 - Step into <kbd>F11</kbd>
 - Step over <kbd>F10</kbd>
 - Step out <kbd>Shift</kbd> + <kbd>F11</kbd>
-- Evaluate in debug console <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>
+- Evaluate in debug console <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>, <kbd>E</kbd>
+- Run to cursor <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>, <kbd>C</kbd>
 - Toggle breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Toggle inline breakpoint <kbd>Shift</kbd> + <kbd>F9</kbd>
 - Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
