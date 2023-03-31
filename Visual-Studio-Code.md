@@ -31,8 +31,9 @@
 - Focus timeline <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>T</kbd>
 - Focus open editors <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>E</kbd>
 - Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
-- Hide sidebar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
+- Maximize editor group and hide sidebars <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
+- Close primary sidebar <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>S</kbd>
 - Move editor group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Left</kbd> / <kbd>Right</kbd> / <kbd>Up</kbd> / <kbd>Down</kbd>
 - Close current tab <kbd>Ctrl</kbd> + <kbd>W</kbd>
 - Close current editor tab <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Del</kbd>
