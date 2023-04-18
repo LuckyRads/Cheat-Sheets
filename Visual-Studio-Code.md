@@ -19,6 +19,7 @@
 - Focus Spring Boot Dashboard <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>A</kbd>
 - Focus Java explorer <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>J</kbd>
 - Focus Test view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>T</kbd>
+- Focus Test results <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>S</kbd>
 - Focus Database view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>D</kbd>
 - Focus Docker container view <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>Q</kbd>, <kbd>F</kbd>
 - Focus GitLab view <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>G</kbd>
