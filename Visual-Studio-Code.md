@@ -6,6 +6,7 @@
 
 - Open anything from the toolbar <kbd>Alt</kbd> + <code>highlighted key in the toolbar</code>
 - Open code window <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
+- New note <kbd>Alt</kbd> + <kbd>N</kbd>
 - File explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>E</kbd>
 - Collapse folders in file explorer <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>C</kbd>
 - Git panel <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>G</kbd>
@@ -31,6 +32,7 @@
 - Focus commits <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>C</kbd>
 - Focus timeline <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>T</kbd>
 - Focus open editors <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>E</kbd>
+- Focus notes <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>L</kbd>
 - Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Maximize editor group and hide sidebars <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
