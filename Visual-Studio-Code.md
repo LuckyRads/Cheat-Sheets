@@ -55,6 +55,7 @@
 - Decrease current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Open terminal in a folder <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
 - Create new terminal (with profile) <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
+- Create new terminal in editor area <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
 - Navigate through terminals <kbd>Ctrl</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
 - Split terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>5</kbd>
 - Kill active terminal <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Delete</kbd>
