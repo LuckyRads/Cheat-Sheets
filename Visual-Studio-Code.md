@@ -35,6 +35,7 @@
 - Focus open editors <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>E</kbd>
 - Focus notes <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Q</kbd>, <kbd>L</kbd>
 - Focus GitLens commit graph <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>V</kbd>
+- Focus GitLens remotes <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>, <kbd>R</kbd>
 - Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Maximize editor group and hide sidebars <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
 - Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
