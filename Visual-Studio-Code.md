@@ -52,6 +52,7 @@
 - Move terminal into editor area <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>E</kbd>
 - Move terminal into panel <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>P</kbd>
 - Join terminals <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>J</kbd>
+- Join unsplit <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>U</kbd>
 - Resize terminal left/right <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
 - IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
