@@ -49,9 +49,10 @@
 - Switch tabs <kbd>Ctrl</kbd> + <kbd>Tab</kbd>
 - Split editor <kbd>Ctrl</kbd> + <kbd>\\</kbd>
 - Move editor to new split editor <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
-- Move terminal into editor area <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>/<kbd>E</kbd>
-- Move terminal into panel <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>/<kbd>P</kbd>
-- Join terminals <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>/<kbd>J</kbd>
+- Move terminal into editor area <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>E</kbd>
+- Move terminal into panel <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>P</kbd>
+- Join terminals <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>J</kbd>
+- Resize terminal left/right <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
 - IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
 - Zoom out <kbd>Ctrl</kbd> + <kbd>-</kbd>
