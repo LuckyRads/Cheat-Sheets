@@ -129,6 +129,7 @@
 - Run to cursor <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>D</kbd>, <kbd>C</kbd>
 - Toggle breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Toggle inline breakpoint <kbd>Shift</kbd> + <kbd>F9</kbd>
+- Edit breakpoint <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>F8</kbd>
 - Breakpoint condition <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>B</kbd>
 - Enable all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>E</kbd>
 - Disable all breakpoints <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>B</kbd>, <kbd>D</kbd> 
