@@ -153,10 +153,11 @@
 
 ### Code folding
 
-- Expand current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
-- Collapse current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
+- Expand current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>]</kbd>
+- Collapse current region <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>[</kbd>
 - Collapse to definition <kbd>Ctrl</kbd> + <kbd>[</kbd>
 - Collapse recursively <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>[</kbd>
+- Expand recursively <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>]</kbd>
 - Expand all outlining <kbd>Ctrl</kbd> + <kbd>]</kbd>
 
 ### IDE features
