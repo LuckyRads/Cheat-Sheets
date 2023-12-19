@@ -188,6 +188,7 @@
 - Show hover information <kbd>g</kbd>, <kbd>h</kbd>
 - Toggle camel case navigation <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>'</kbd>
 - Toggle minimap <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>P</kbd>
+- Copy editor into new window <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>O</kbd>
 
 ### Source control
 
