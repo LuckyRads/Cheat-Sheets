@@ -191,6 +191,7 @@
 - Copy editor into new window <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>O</kbd>
 - Move editor into first group <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>1</kbd>
 - Move editor into last group <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>9</kbd>
+- Close other editors in group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>K</kbd>
 
 ### Source control
 
