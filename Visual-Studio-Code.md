@@ -204,3 +204,11 @@
 - Discard change <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>D</kbd>
 - Revert change in selected range <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>R</kbd>
 - Stage changes in selected range <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd>, <kbd>R</kbd>
+
+## AI (agents and chats)
+
+### Gemini
+
+- Open chat <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>`</kbd>
+- Gemini context <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>G</kbd>
+- Generate code <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Enter</kbd>
