@@ -54,10 +54,13 @@
 - Move editor to new split editor <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
 - Move terminal into editor area <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>E</kbd>
 - Move terminal into panel <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>P</kbd>
+- Move terminal into new window <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>N</kbd>
+- Rename terminal <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>R</kbd>
 - Join terminals <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>J</kbd>
 - Join unsplit <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>U</kbd>
-- Resize terminal left/right <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>
+- Resize terminal left/right <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>, <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Left</kbd>/<kbd>Right</kbd>/<kbd>Down</kbd>/<kbd>Up</kbd>
 - Move activity bar to Top <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>A</kbd>, <kbd>T</kbd>
+- Move view <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>V</kbd>
 - Move activity bar to Side <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>A</kbd>, <kbd>S</kbd>
 - IDE search <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Settings search <kbd>Ctrl</kbd> + <kbd>,</kbd>
@@ -68,6 +71,7 @@
 - Increase current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>=</kbd>
 - Decrease current view size <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>-</kbd>
 - Open terminal in a folder <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>`</kbd>
+- Add root folder to workspace <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>Ctrl</kbd> + <kbd>A</kbd>
 - Create new terminal (with profile) <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>Space</kbd>
 - Create new terminal in editor area <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
 - Navigate through terminals <kbd>Ctrl</kbd> + <kbd>Page up</kbd>/<kbd>Page down</kbd>
