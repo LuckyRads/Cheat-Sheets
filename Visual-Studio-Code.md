@@ -41,7 +41,9 @@
 - Reveal active file in explorer view <kbd>Alt</kbd> + <kbd>F1</kbd>, <kbd>1</kbd>
 - Select project <kbd>Alt</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Maximize editor group and hide sidebars <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>H</kbd>
-- Maximize editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>
+- Toggle maximized editor group <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>, <kbd>E</kbd>
+- Toggle maximized panel <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>, <kbd>P</kbd>
+- Toggle maximized side bar <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>M</kbd>, <kbd>S</kbd>
 - Reset editor groups <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>M</kbd>
 - Close primary sidebar <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>P</kbd>
 - Close seconday sidebar <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>V</kbd>, <kbd>S</kbd>
