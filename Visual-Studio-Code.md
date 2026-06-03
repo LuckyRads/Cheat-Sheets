@@ -202,6 +202,7 @@
 - Move editor into first group <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>1</kbd>
 - Move editor into last group <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>9</kbd>
 - Close other editors in group <kbd>Ctrl</kbd> + <kbd>K</kbd>, <kbd>K</kbd>
+- Open markdown preview <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>Alt</kbd> + <kbd>P</kbd>
 
 ### Source control
 
